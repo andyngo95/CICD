@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{52413A02-7FEF-4049-ADB8-3F5ACE620C4F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CICD/MyClass.cs">
+    <Files>
+      <File FileName="CICD/MyClass.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CICD.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.87C183BB-9759-4131-A615-D3A8CA76B0E9" />
+  <MultiItemStartupConfigurations />
+</Properties>
